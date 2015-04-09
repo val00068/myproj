@@ -1,2 +1,4 @@
 # myproj
 Test
+local edit line
+Š¿Žš‚ÌƒeƒXƒg
